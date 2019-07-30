@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-s2s-re-ducks-actions-ts",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src --out-dir lib"
+  },
+  "dependencies": {
+    "@babel/plugin-syntax-typescript": "^7.3.3",
+    "@babel/types": "^7.5.5",
+    "lodash.camelcase": "^4.3.0",
+    "lodash.snakecase": "^4.1.1",
+    "s2s-utils": "^1.0.0"
+  }
+}
