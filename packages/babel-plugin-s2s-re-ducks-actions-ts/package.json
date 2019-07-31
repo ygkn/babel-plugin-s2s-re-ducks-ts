@@ -12,5 +12,8 @@
     "lodash.camelcase": "^4.3.0",
     "lodash.snakecase": "^4.1.1",
     "s2s-utils": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/babel__core": "^7.1.2"
   }
 }
