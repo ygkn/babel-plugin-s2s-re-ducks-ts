@@ -8,9 +8,12 @@
   },
   "dependencies": {
     "@babel/plugin-syntax-typescript": "^7.3.3",
+    "@babel/template": "^7.4.4",
     "@babel/types": "^7.5.5",
+    "@types/lodash.snakecase": "^4.1.6",
     "lodash.snakecase": "^4.1.1",
-    "s2s-utils": "^1.0.0"
+    "s2s-utils": "^1.0.0",
+    "slash": "^3.0.0"
   },
   "devDependencies": {
     "@types/babel__core": "^7.1.2"
