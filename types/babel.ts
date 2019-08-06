@@ -1,5 +1,5 @@
 export type File = {
-  opts: { filename: string };
+  opts: { filename: string; generatorOpts: { filename: string } };
 };
 
 export type State<PluinOpt = {}> = {
